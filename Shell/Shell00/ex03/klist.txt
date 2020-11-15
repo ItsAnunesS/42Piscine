@@ -1,0 +1,5 @@
+Credentials cache: API:F765DB2A-742A-4B81-8CBD-786E5B60FDCB
+        Principal: anunes-d@42LISBOA.COM
+
+  Issued                Expires               Principal
+Oct 21 17:08:15 2020  Oct 22 03:08:15 2020  krbtgt/42LISBOA.COM@42LISBOA.COM
