@@ -85,7 +85,7 @@
 
 ### FAQ
 
-- **hat is 42?**<br>42 is a coding school, recognized as one of the best in the world, with an innovative and disruptive educational model, based on a peer-to-peer, project-based, and gamified learning system. Founded in Paris in 2013, 42 is present in more than 30 cities worldwide, offering anyone over 17 years old the opportunity to learn to program for free. Despite having many students who joined 42 without any prior code experience, the school’s employability rate is 100%.
+- **What is 42?**<br>42 is a coding school, recognized as one of the best in the world, with an innovative and disruptive educational model, based on a peer-to-peer, project-based, and gamified learning system. Founded in Paris in 2013, 42 is present in more than 30 cities worldwide, offering anyone over 17 years old the opportunity to learn to program for free. Despite having many students who joined 42 without any prior code experience, the school’s employability rate is 100%.
 <br>
 
 - **How does the Piscine work?**<br>The Piscine is a phase of the selection process that lasts 4 weeks and involves face-to-face experience at the 42 Lisboa campus. This is typically a very intense period of great commitment and enormous learning. During the Piscine, you’ll discover a lot about the basics of programming and the importance of working as a team.
