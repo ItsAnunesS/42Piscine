@@ -94,7 +94,7 @@
 - **What are the Piscine's selection criteria?**<br>We do not reveal the selection criteria, but we can tell you this: candidates who work hard, make progress, work as a team and never give up are the ones that best fit our student profile. We don’t focus too much on who can finish the exercises first, but rather who is motivated and enthusiastic about continuing learning.
 <br>
 
-- **Why is the Piscine called Piscine?**<br>Piscine” is the French word for swimming pool. It has this name because, during this phase of the process, you’ll dive with the other candidates in a massive world of programming – and learn to swim in it.
+- **Why is the Piscine called Piscine?**<br>"Piscine” is the French word for swimming pool. It has this name because, during this phase of the process, you’ll dive with the other candidates in a massive world of programming – and learn to swim in it.
 <br>
 
 - **Does 42 have ownership rights to any code that students develop during the program?**<br>No. 42 Lisboa students have full ownership of all the code they create on campus, in both curricular or personal projects. We don’t want to stop our students from making big strides and starting their path until they become intellectual property millionaires.
