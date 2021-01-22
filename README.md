@@ -7,7 +7,7 @@
 <!-- ENGLISH VERSION -->
 <details>
 <summary>English Version</summary>
-<a href="https://github.com/ItsAnunesS/42Piscine" target="_blank"><img width="30" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/flags_parrots/flags/hd/unitedstatesofamericaparrot.gif"></a> > curl parrot.live 
+<a href="https://github.com/ItsAnunesS/42Piscine" target="_blank"><img width="30" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/main/src/img/parrots/laptop_parrot.gif"></a> > curl parrot.live 
 
 [![HitCount](http://hits.dwyl.com/ItsAnunesS/42Piscine.svg)](http://hits.dwyl.com/ItsAnunesS/42Piscine)
 
@@ -107,7 +107,7 @@ To learn more, visit: [42 Lisboa](https://www.42lisboa.com/)
 <!-- PORTUGUESE VERSION -->
 <details>
 <summary>Portuguese Version</summary>
-<a href="https://github.com/ItsAnunesS/42Piscine" target="_blank"><img width="30" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/flags_parrots/flags/hd/portugalparrot.gif"></a> > curl parrot.live 
+<a href="https://github.com/ItsAnunesS/42Piscine" target="_blank"><img width="30" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/main/src/img/parrots/laptop_parrot.gif"></a> > curl parrot.live 
   
  [![HitCount](http://hits.dwyl.com/ItsAnunesS/42Piscine.svg)](http://hits.dwyl.com/ItsAnunesS/42Piscine)
 
