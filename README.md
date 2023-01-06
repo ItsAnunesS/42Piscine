@@ -4,9 +4,11 @@
   <a href="https://github.com/ItsAnunesS/" target="_blank"><img src="https://img.shields.io/github/followers/itsanuness?style=for-the-badge&logo=github&logoColor=ffffff&color=fcba03" alt="visitor badge"/></a>
 </p>
 
+<p>:star2:Before fork it, give me a star :star2:</p>
+
 <!-- ENGLISH VERSION -->
 <details>
-<summary>English Version</summary>
+<summary><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="20" /> English Version</summary>
 <a href="https://github.com/ItsAnunesS/42Piscine" target="_blank"><img width="30" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/main/src/img/parrots/laptop_parrot.gif"></a> > curl parrot.live 
 
 [![HitCount](http://hits.dwyl.com/ItsAnunesS/42Piscine.svg)](http://hits.dwyl.com/ItsAnunesS/42Piscine)
@@ -106,7 +108,7 @@ To learn more, visit: [42 Lisboa](https://www.42lisboa.com/)
 
 <!-- PORTUGUESE VERSION -->
 <details>
-<summary>Portuguese Version</summary>
+<summary><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" width="20" /> Portuguese Version</summary>
 <a href="https://github.com/ItsAnunesS/42Piscine" target="_blank"><img width="30" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/main/src/img/parrots/laptop_parrot.gif"></a> > curl parrot.live 
   
  [![HitCount](http://hits.dwyl.com/ItsAnunesS/42Piscine.svg)](http://hits.dwyl.com/ItsAnunesS/42Piscine)
